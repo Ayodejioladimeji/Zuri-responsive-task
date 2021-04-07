@@ -20,8 +20,8 @@ div.logo {
     color: #bcc3c7;
 }
 
-div .toggle-icon{
-    display:none;
+div .toggle-icon {
+    display: none;
 }
 
 ul.nav-links {
@@ -52,7 +52,7 @@ ul li a:hover {
 /* The hero section */
 div.hero-section {
     background: #304353;
-    padding:10rem;
+    padding: 10rem;
 }
 
 div.hero-content-heading {
@@ -208,7 +208,7 @@ div.circle {
     border-radius: 50%;
     background: #bcc3c7;
     margin-top: 2rem;
-    
+
 }
 
 div.box1 h5 {
@@ -245,10 +245,10 @@ div.gallery-content p {
 }
 
 div.gallery-img {
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: center;
-   padding-top: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 3rem;
 }
 
 div.img {
@@ -362,3 +362,4 @@ div.footer h6 {
 }
 
 
+/* vscode://vscode.github-authentication/did-authenticate?windowid=3&code=f4d5174ee807fa897d40&state=13541a60-a93b-4b47-94fe-7c7a9d5949cc */
